@@ -1,0 +1,2 @@
+[2024-07-08 07:56:52] [class-ss-archive-creation-job.php:112] Not starting; we're already in the middle of a job
+[2024-07-08 08:00:55] [class-ss-archive-creation-job.php:384] Erreur : (1) Maximum execution time of 120 seconds exceeded in <b>C:\xampp\htdocs\wordpress\wp-includes\class-wpdb.php</b> on line <b>2349</b>
